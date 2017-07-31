@@ -13,8 +13,10 @@
 
 //자바 코드를 사용할 수 있는 영역 *(scriptlet)   <% % >   - > 지역 변수를 선언할때 , 제어문 
 
-String str = "깃 테스트 하기";
+String str = "hotfix";
 out.println("str="+str);
+out.println("<h1>str="+str+"</h1>");
+
 %>
 
 
